@@ -1,0 +1,15 @@
+{
+  "name": "tw-invoice-checker-web",
+  "version": "0.0.0",
+  "author": "kakahikari <kakahikari@gmail.com>",
+  "license": "ISC",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  },
+  "packageManager": "pnpm@10.28.0"
+}
