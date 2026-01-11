@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "dev": "vitepress dev",
-    "build": "vitepress build",
+    "build": "vitepress build && node scripts/post-build-privacy-policy.js",
     "preview": "vitepress preview",
     "format": "prettier --write .",
     "lint": "eslint .",

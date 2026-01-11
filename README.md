@@ -12,6 +12,7 @@
 ```
 .
 ├── .vitepress/          # VitePress 相關設定
+├── scripts/             # 腳本目錄
 └── public/              # 靜態資源目錄 (供 App 使用)
 ```
 
