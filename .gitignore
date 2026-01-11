@@ -19,5 +19,4 @@ pnpm-debug.log*
 
 # vitepress build output & temp files
 dist/
-/*.md
-!README.md
+

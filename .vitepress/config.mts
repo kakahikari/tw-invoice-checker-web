@@ -6,7 +6,11 @@ const googleAnalyticsId = process.env.GOOGLE_ANALYTICS_ID || ''
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: '/tw-invoice-checker-web/',
+  srcDir: './pages',
   outDir: './dist',
+  vite: {
+    publicDir: '../public',
+  },
   cacheDir: './node_modules/vitepress_cache',
   title: 'tw-invoice-checker-web',
   description: 'A VitePress Site',
