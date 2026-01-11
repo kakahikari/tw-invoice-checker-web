@@ -1,6 +1,6 @@
 {
   "name": "tw-invoice-checker-web",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "kakahikari <kakahikari@gmail.com>",
   "license": "ISC",
   "type": "module",
