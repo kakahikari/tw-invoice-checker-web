@@ -5,6 +5,11 @@ name: Deploy VitePress site to Pages
 on:
   push:
     branches: [main]
+  workflow_run:
+    workflows: ['Update Winning Numbers']
+    branches: [main]
+    types:
+      - completed
 
 permissions:
   contents: read
