@@ -12,8 +12,8 @@ export default defineConfig({
     publicDir: '../public',
   },
   cacheDir: './node_modules/vitepress_cache',
-  title: 'tw-invoice-checker-web',
-  description: 'A VitePress Site',
+  title: '發票來對喔',
+  description: '',
 
   head: [
     [
@@ -37,23 +37,13 @@ export default defineConfig({
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' },
-    ],
+    nav: [{ text: '首頁', link: '/' }],
 
     sidebar: [
       {
         text: 'Examples',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' },
-        ],
+        items: [],
       },
-    ],
-
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' },
     ],
   },
 })
