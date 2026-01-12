@@ -1,0 +1,33 @@
+{
+  "updateTime": "2026-01-12 14:57:13",
+  "periods": [
+    {
+      "period": "11409",
+      "months": "09-10月",
+      "year": "114年",
+      "redemptionDate": "2025-12-06 ~ 2026-03-05",
+      "specialPrize": "25834483",
+      "grandPrize": "46587380",
+      "firstPrize": [
+        "41016094",
+        "98081574",
+        "07309261"
+      ],
+      "additionalSixthPrize": []
+    },
+    {
+      "period": "11407",
+      "months": "07-08月",
+      "year": "114年",
+      "redemptionDate": "2025-10-06 ~ 2026-01-05",
+      "specialPrize": "53960536",
+      "grandPrize": "51509866",
+      "firstPrize": [
+        "43074088",
+        "22870220",
+        "38253117"
+      ],
+      "additionalSixthPrize": []
+    }
+  ]
+}
