@@ -8,12 +8,14 @@
     "dev": "vitepress dev",
     "build": "vitepress build && node scripts/post-build-privacy-policy.js",
     "preview": "vitepress preview",
+    "update:winning-numbers": "node scripts/update-winning-numbers.js",
     "format": "prettier --write .",
     "lint": "eslint . --fix"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.2",
     "@types/node": "^25.0.5",
+    "cheerio": "^1.1.2",
     "eslint": "^9.39.2",
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-import": "^2.32.0",
