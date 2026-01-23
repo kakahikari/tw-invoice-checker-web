@@ -37,6 +37,10 @@ export default defineConfig({
     ['meta', { property: 'og:image', content: '/images/og.png' }],
   ],
 
+  sitemap: {
+    hostname: 'https://kakahikari.me/tw-invoice-checker-web/',
+  },
+
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
