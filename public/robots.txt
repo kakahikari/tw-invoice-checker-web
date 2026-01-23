@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /tw-invoice-checker-web/privacy-policy.html
+
+Sitemap: https://kakahikari.me/tw-invoice-checker-web/sitemap.xml
