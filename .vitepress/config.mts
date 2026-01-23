@@ -14,7 +14,7 @@ export default defineConfig({
   cacheDir: './node_modules/vitepress_cache',
   title: '發票來對喔',
   description:
-    '台灣發票對獎神器，支援國/台語語音播報，讓您快速完成對獎，不再錯過任何中獎機會!',
+    '發票來對喔是一款專為長輩設計的台灣發票對獎 App，提供大字體介面與國語、台語語音播報，只需輸入末三碼即可快速對獎，操作簡單、看得清楚、聽得明白，適合全家人安心使用。',
 
   head: [
     [

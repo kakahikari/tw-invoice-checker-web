@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: '發票來對喔'
-  text: '台灣發票對獎神器'
-  tagline: '支援國/台語語音播報，讓您快速完成對獎，不再錯過任何中獎機會!'
+  text: '長輩也能輕鬆使用的發票對獎 APP'
+  tagline: '大字體・語音播報・一鍵操作，支援國語與台語，讓全家人都能安心快速對獎，不怕看錯、聽不清。'
   image:
     src: /images/hero.png
     alt: 發票來對喔 APP
@@ -15,24 +15,24 @@ hero:
       link: /download
 
 features:
+  - icon: 👵
+    title: 長者友善設計
+    details: 大字體介面、清楚按鈕間距、操作流程簡單直覺，長輩第一次使用也能馬上上手。
   - icon: 🎯
-    title: 簡單快速對獎
-    details: 只需輸入發票末三碼，立即知道是否中獎。自動檢查特別獎、特獎、頭獎及增頒六獎。
+    title: 快速對獎不費力
+    details: 只需輸入發票末三碼，即可快速比對，省時又省眼力。
   - icon: 🔔
     title: 自動更新開獎號碼
-    details: 應用會自動同步最新開獎號碼，支援離線查詢。
+    details: 開獎資料自動同步，不需手動更新，支援離線查詢。
   - icon: 🎵
-    title: 多種語音選擇
-    details: 提供國語男聲、國語女聲、台語男聲、台語女聲四種鍵盤音效。
-  - icon: 🌓
-    title: 深色/淺色模式
-    details: 內建深色與淺色兩種介面主題，可依個人喜好或使用環境自由切換。
+    title: 國語 / 台語語音播報
+    details: 提供國語男聲、女聲與台語語音，對獎結果清楚唸出來，不必盯著小字看。
   - icon: ⌨️
-    title: 貼心的鍵盤設計
-    details: 大字體數字鍵盤，方便快速輸入，支援鍵盤排列順序切換。
+    title: 大字體鍵盤好輸入
+    details: 數字鍵盤字體放大、按鍵間距舒適，手指不易誤觸，輸入更準確。
   - icon: 🎊
-    title: 中獎音效提示
-    details: 中獎時會播放勝利音效，未中獎也有提示音效，增加對獎樂趣。
+    title: 中獎音效即時提醒
+    details: 中獎與未中獎都有清楚音效提示，即使沒看螢幕也能馬上知道結果。
 ---
 
 ## APP 截圖
@@ -56,28 +56,28 @@ features:
   <div style="text-align: center;">
     <div style="font-size: 3rem; margin-bottom: 1rem;">📱</div>
     <h3>下載並開啟應用</h3>
-    <p style="color: var(--vp-c-text-2);">首次開啟會自動下載最新開獎號碼</p>
+    <p style="color: var(--vp-c-text-2);">第一次打開會自動更新最新開獎資料，無需任何設定。</p>
   </div>
   <div style="text-align: center;">
     <div style="font-size: 3rem; margin-bottom: 1rem;">🔢</div>
     <h3>輸入發票末三碼</h3>
-    <p style="color: var(--vp-c-text-2);">使用大字體數字鍵盤快速輸入</p>
+    <p style="color: var(--vp-c-text-2);">使用大字體鍵盤，數字清楚好按，長輩也能輕鬆操作。</p>
   </div>
   <div style="text-align: center;">
     <div style="font-size: 3rem; margin-bottom: 1rem;">🎉</div>
     <h3>立即知道是否中獎</h3>
-    <p style="color: var(--vp-c-text-2);">自動對獎並顯示獎項和金額</p>
+    <p style="color: var(--vp-c-text-2);">結果會同步顯示並語音播報，不必擔心看錯或漏看。</p>
   </div>
 </div>
 
 ::: tip 重要提醒
-末三碼相符只是初步篩選，中獎後務必核對完整八位數號碼才能確認實際獎項!
+輸入末三碼僅為快速篩選，中獎後請務必再次核對完整八位數發票號碼，以確保獎項正確。
 :::
 
 ---
 
 <div style="text-align: center; margin: 3rem 0;">
-  <a href="/download" style="display: inline-block; padding: 16px 40px; background: #42b983; color: white; border-radius: 8px; text-decoration: none; font-weight: 600; font-size: 18px;">
+  <a href="./download.html" style="display: inline-block; padding: 16px 40px; background: #42b983; color: white; border-radius: 8px; text-decoration: none; font-weight: 600; font-size: 18px;">
     立即下載
   </a>
 </div>
