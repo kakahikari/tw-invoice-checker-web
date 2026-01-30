@@ -11,6 +11,7 @@ pnpm-debug.log*
 .idea
 .vscode
 .claude
+CLAUDE.local.md
 *.suo
 *.ntvs*
 *.njsproj
@@ -19,4 +20,3 @@ pnpm-debug.log*
 
 # vitepress build output & temp files
 dist/
-
